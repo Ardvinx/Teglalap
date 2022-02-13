@@ -2,7 +2,7 @@
 
 int main()
 {
-    system("clear");
+    //system("clear");
 
     int SideA = 0;
     int sideB = 0;
