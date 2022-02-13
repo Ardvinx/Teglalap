@@ -1,2 +1,2 @@
 # Teglalap
-Prog 1. első házifeladat megoldás.
+Prog 1. téglalap házifeladat megoldás.
